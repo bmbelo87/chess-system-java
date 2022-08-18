@@ -28,11 +28,13 @@ Todas as peças possuem exibição de movimentos permitidos.
 
 ### O sistema permite realizar o movimento do Roque (Castle). 
 Ex.: Mover rei branco para a esquerda.
+
 ![image](https://user-images.githubusercontent.com/15232552/185478389-6fc29579-3291-406e-a939-5af17f42119b.png)
 ![image](https://user-images.githubusercontent.com/15232552/185478466-aedf9fd7-7df9-437d-81a4-f09518f1e74e.png)
 
 ### O sistema também permite realizar o movimento En Passant.
-Ex.: 
+Ex.:
+
 ![image](https://user-images.githubusercontent.com/15232552/185479340-12bca87f-2241-47a8-bdfe-3f827b451e50.png)
 
 ### O sistema permite promoção quando um peão chega ao outro lado do tabuleiro. 
